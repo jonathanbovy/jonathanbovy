@@ -1,29 +1,40 @@
-👋 Salut, je suis@jonathanbovy!
-Après une reconversion professionnelle réussie et l'obtention de mon diplôme Développeur Web et Web Mobile (DWWM) 💪, j'ai choisi de mettre ma passion du code au service des entreprises en tant que développeur web freelance .
+ # Jonathan Bovy
 
-Je crée des sites web modernes, performants et sur mesure , et je suis prêt à accompagner les entreprises dans leurs projets numériques pour leur offrir une présence en ligne impactante. 🚀
+  Développeur fullstack freelance — je construis des SaaS de A à Z.
 
-👀 Mes centres d'intérêt :
-Développement Web : Création de sites et d'applications interactives, accessibles et intuitives
+  ## Ce que je fais
 
-Apprentissage continu : Toujours curieux et avide de nouvelles technologies
+  Je développe des applications SaaS sur mesure pour les startups et PME qui veulent lancer ou scaler leur produit. Un seul interlocuteur,
+  de la conception au déploiement.
 
-🌱 En ce moment, je me perfectionne sur :
-Backend : Node.js / Express / Sequelize / Prisma / Mongoose
+  **Mes stacks :**
+  - **Frontend** : Next.js, React, TypeScript, Tailwind CSS
+  - **Backend** : Node.js, Prisma, PostgreSQL, REST APIs
+  - **Paiements** : Stripe (checkout, webhooks, portail client)
+  - **Auth** : NextAuth, JWT, email verification, CAPTCHA
+  - **IA** : OpenAI API (GPT-4o)
+  - **Infra** : Vercel, Neon, Upstash Redis, Resend, Sentry
 
-Base de données : PostgreSQL / MongoDB
+  ## WordMirror — mon SaaS en production
 
-Front-end : React.js
+  [wordmirror.io](https://wordmirror.io) — Génère des posts adaptés à chaque réseau social en 30 secondes.
 
-💼 Ce que je recherche :
-Collaborer sur des projets ambitieux et inspirants , que ce soit pour créer un site web de A à Z , améliorer une application existante ou relever des défis techniques.
+  Tu choisis tes plateformes (LinkedIn, Twitter, Instagram, Facebook), tu écris une idée, l'IA génère un post natif par plateforme. Elle
+  peut cloner ton style d'écriture ou utiliser les best practices de chaque réseau.
 
-📫 Me contacter :
+  **Sous le capot :**
+  - Clean Architecture (domain, application, infrastructure, presentation)
+  - 600+ tests unitaires, 45 suites
+  - Système de crédits avec 3 plans (Free, Starter, Pro)
+  - Stripe intégré (checkout, webhooks, portail)
+  - Analyse de style par IA avec cache Redis
+  - Auth complète (email verification, reset password, CAPTCHA)
+  - RGPD compliant, security headers Grade A
 
-📧 mail: bovy.jonathan@orange.fr
-💼 LinkedIn: www.linkedin.com/in/jonathan-bovy
-🌐 Portfolio: https://portfoliojonathanbovy.me/
+  → C'est pas un side project. C'est la même qualité de code que je mets au service de vos projets.
 
-😄Pronoms: Il/Lui
+  ## Me contacter
 
-⚡ Fun fact : J'ai connu les débuts d'Internet et le bruit légendaire du modem 56k… Aujourd'hui, je transforme cette nostalgie en créativité pour construire le web de demain.
+  - **LinkedIn** : [jonathan-bovy](https://www.linkedin.com/in/jonathan-bovy)
+  - **Prendre RDV (30 min)** : [cal.com/jonathan-bovy](https://cal.com/jonathan-bovy)
+  - **Email** : contact@jonathanbovy-dev.fr
